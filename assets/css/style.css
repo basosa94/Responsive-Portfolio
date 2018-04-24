@@ -218,6 +218,15 @@ input[type=submit] {
 
 @media screen and (max-width:980px) {
 
+  html,
+  body {
+    height: 1054px;
+  }
+
+  .wrapper {
+    min-height: 100%;
+  }
+  
   .container {
     width:90%;
   }
@@ -240,6 +249,15 @@ input[type=submit] {
 }
 
 @media screen and (max-width:768px) {
+
+  html,
+  body {
+    height: 1054px;
+  }
+
+  .wrapper {
+    min-height: 100%;
+  }
 
   .container {
     width: 90%;
@@ -264,6 +282,15 @@ input[type=submit] {
 }
 
 @media screen and (max-width:640px) {
+
+  html,
+  body {
+    height: 1054px;
+  }
+
+  .wrapper {
+    min-height: 100%;
+  }
 
   #masthead {
     position: static;
